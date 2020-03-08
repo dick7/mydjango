@@ -24,5 +24,4 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 ```
 Import code
 ```
-> ProTip! Use the [URL](https://github.com/dick7/mydjango.git
-) for this page when adding GitHub as a remote.
+> ProTip! Use the [URL](https://github.com/dick7/mydjango.git) for this page when adding GitHub as a remote.
